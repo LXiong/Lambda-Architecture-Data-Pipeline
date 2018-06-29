@@ -1,4 +1,4 @@
-# Log-File-Processing-Data-Pipeline
+# LambdaArch-Data-Pipeline
 
 Log file processing data pipeline built using Lambda architecture | Flume | Apache Spark | Spark Streaming | Apache Kafka | HDFS | Hbase | Hive | Impala | Oozie
 
